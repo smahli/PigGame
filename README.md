@@ -1,1 +1,1 @@
-# PigGame This is my first ever javascript Project 
+This is my first ever javascript Project 
